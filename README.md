@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shravani Desai
 
-💻 Computer Engineering Student  
+💻 IT Engineering Student  
 📱 Flutter Developer | Software Development Enthusiast  
 🌱 Interested in building practical and user-friendly applications  
 
@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Engineering student with an interest in software and mobile application development. I enjoy building applications that help users access information easily and efficiently.
+I am an IT Engineering student with an interest in software and mobile application development. I enjoy building applications that help users access information easily and efficiently.
 
 I have experience working with Flutter and have also explored web development and programming in multiple languages. I like learning new technologies and improving my development skills through hands-on projects.
 
